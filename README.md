@@ -66,9 +66,9 @@ This project uses predictive machine learning in order to predict whether a stoc
 - **Future Actions**
     * Research more financial metrics to try modeling in order to predict future stock price growth
     * Technical Analysis indicators may be very useful in future price predictions
-    * Other ML algorithms like Neural Networks and Support Vector Machnines may lead to greater performance outcomes
+    * Other ML algorithms like Neural Networks and Support Vector Machnines may lead to greater performance outcomes. 
 
 
   ## Links
 
-  -  [Google Slides Presentation]()
+  -  [Google Slides Presentation](https://docs.google.com/presentation/d/1MSXmqDsJS7kaixIAB2RXjj8DKBLAH8lBR-efk1LCq74/edit?usp=sharing)

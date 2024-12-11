@@ -22,7 +22,7 @@ This project uses predictive machine learning in order to predict whether a stoc
 
 
 - **Visualizations:**
-    1. ![Feature Importance](visuals/feature_importance.png)
+    1. ![Feature Importance](visuals/feature_importance_final_model.png)
     2. ![Top 5 Highest Probability Stocks to Beat Estimated EPS](visuals/stock_eps_probability.png)
  
 

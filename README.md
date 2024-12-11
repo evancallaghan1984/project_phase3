@@ -1,4 +1,4 @@
-# project_phase3
+# Phase 3 Project: Predictive EPS Result Model
 
 ## Overview
 This project uses predictive machine learning in order to predict whether a stock will beat its' next quarterly estimated earnings per share (EPS) or not. The idea is that beating estimated EPS is a sign of strong financials, increasing profitability, and future growth potential. Using financial metrics, like P/E and Free Cash Flow, as well as historical earnings data, we created and enhanced a model to predict EPS result using a Decision Tree with added preprocessing and hyperparameters. The result is promising and provides solid framework for additional parameters to be added in order to enhance model performance and presents helpful information on which financial metrics are most important in deciding future stock price growth. 
